@@ -7,7 +7,7 @@ MCP Server connecting [Hermes Agent](https://github.com/NousResearch/hermes-agen
 ```
 Hermes (MCP client)
   │
-  ├── call_openclaw(task)        → Kratos (full-persona agent, all tools)
+  ├── call_openclaw(task)        → OpenClaw Agents (full-persona agent, all tools)
   └── delegate_to_servant(task)  → task-servant (no-persona execution unit)
          │
          ▼
